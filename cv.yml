@@ -1,2 +1,11 @@
-rubizza:
-  test: '123'
+age: "18"
+education: "BSUIR, 2 cource, FKSIS"
+english: A2
+full_name: "Elizaveta Shved"
+goal: "Find a programming area where I can enjoy my work."
+have_a_job: "no unemployed"
+hours_per_day: "8"
+laptop: "Yes, macbook air"
+phone_number: "+375297234016"
+programming_languages: "Ruby, C#, C"
+
